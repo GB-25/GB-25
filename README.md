@@ -2,14 +2,13 @@
 
 🎓 Laureando in **Scienze e Tecnologie dell'Informazione** | Appassionato di Sviluppo Software, Programmazione a Oggetti e Analisi Computazionale.
 
-Benvenuto nel mio spazio GitHub! Qui è dove traduco la teoria in codice.
+Benvenuto nel mio spazio GitHub! 
 
 ### 🛠 Tech Stack e Strumenti
 - **Linguaggi:** C, C++, Java
 - **Database & Strumenti:** SQL, Git, Linux, LaTeX
 
 ### 🚀 I miei Progetti Principali
-*(Alcuni dei progetti di cui vado più fiero)*
 - 💻 **[IngSw2024-25](https://github.com/GB-25/IngSw2024-25)**: Progetto in team per l'esame di Ingegneria del Software, per il quale è stata sviluppata un'app desktop per la gestione di agenzie immobiliari.
 - 📊 **[LASD25](https://github.com/GB-25/LASD25)**: Libreria per l'esame di Laboratorio di Algoritmi e Strutture Dati, con implementazione di varie data structures e algoritmi computazionalmente efficienti.
 
