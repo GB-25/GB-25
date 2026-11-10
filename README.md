@@ -1,6 +1,6 @@
 # Ciao, sono Giorgio Bozza 👋
 
-🎓 Laureando in **Scienze e Tecnologie dell'Informazione** | Appassionato di Sviluppo Software, Programmazione a Oggetti e Analisi Computazionale.
+🎓 Laureato in **Scienze e Tecnologie dell'Informazione** ad **Unina**, studente del corso di Laurea Magistrale di **Software Engineering and IT Management** ad **Unisa**| Appassionato di Sviluppo Software, Programmazione a Oggetti e Analisi Computazionale.
 
 Benvenuto nel mio spazio GitHub! 
 
